@@ -1,0 +1,31 @@
+p1 {
+  font-family: "Tahoma", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{background-color: lightsteelblue;}
+h1{color:slategray;}
+h1{text-align:center}
+h3{color:lightslategray}
+h2{color:lightslategray}
+p{color:lavenderblush}
+p2{color:lavenderblush}
+
+ul{color:lavenderblush}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+
+header {
+  background-color: lightsteelblue;
+  padding: 30px;
+  text-align: center;
+  font-size: 10px;
+  color: lightslategray;
+}
+
+
